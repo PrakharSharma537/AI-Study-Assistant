@@ -1,0 +1,11 @@
+# Ignore a specific file in the root
+dsa.pdf
+
+# Ignore all node_modules folders (Standard practice)
+node_modules/
+
+# Ignore node_modules specifically inside the pdf/Frontend directory
+pdf/Frontend/node_modules/
+
+# Ignore the public folder inside the Frontend directory
+pdf/Frontend/public/
